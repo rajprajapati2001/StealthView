@@ -1,9 +1,9 @@
-# <p align="center"><img src="./src/components/StealthLogo.tsx" width="40" height="40" alt="StealthView Icon" /> <br> StealthView</p>
+# <p align="center"><img src="/stealthview_icon_128x128.png" width="40" height="40" alt="StealthView Icon" /> <br> StealthView</p>
 
 **StealthView** is a professional-grade web browsing emulator designed for developers, security researchers, and privacy enthusiasts. It allows you to simulate various device environments and network conditions in a secure, isolated session.
 
 ## 🌐 Live Demo
-[View StealthView Live](https://ais-dev-ts45n2xpzmrse3lkzdlttx-256006397821.asia-southeast1.run.app)
+[https://ais-dev-ts45n2xpzmrse3lkzdlttx-256006397821.asia-southeast1.run.app](https://ais-dev-ts45n2xpzmrse3lkzdlttx-256006397821.asia-southeast1.run.app)
 
 ## 📸 Screenshots
 *Placeholder: [Main Dashboard View]*
