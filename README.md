@@ -1,3 +1,4 @@
+![Screenshort01](/stealthview_full_image_01.jpg)
 # <p align="center"><img src="/stealthview_icon_128x128.png" width="120" height="120" alt="StealthView Icon" /> <br> StealthView</p>
 
 **StealthView** is a professional-grade web browsing emulator built for developers, security researchers, and privacy enthusiasts. By simulating diverse device environments and network conditions within secure, isolated sessions, it provides a seamless platform for testing responsive designs and verifying geo-restricted content. StealthView prioritizes user anonymity by masking digital fingerprints and ensuring every session remains completely private.
@@ -8,7 +9,6 @@
 [https://stealth-view-dusky.vercel.app/](https://stealth-view-dusky.vercel.app/)
 
 ## 📸 Screenshots
-![Screenshort01](/stealthview_full_image_01.jpg)
 ![Screenshort02](/stealthview_full_image_02.jpg)
 
 ---
@@ -59,7 +59,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/rajprajapati2001/StealthView.git
    cd StealthView
    ```
 2. Install dependencies:
