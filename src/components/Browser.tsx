@@ -58,7 +58,9 @@ export const Browser: React.FC<BrowserProps> = ({
   };
 
   return (
-    <div className="relative flex-1 overflow-auto bg-zinc-900/30 p-8 flex items-center justify-center">
+    <div 
+  className="relative flex-1 overflow-auto scrollbar-hide bg-zinc-900/30 p-8 flex items-center justify-center [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
+>
       <AnimatePresence mode="wait">
         {!displayUrl ? (
           <motion.div
