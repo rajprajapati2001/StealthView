@@ -26,7 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="flex w-full sm:w-auto items-center justify-between sm:justify-start gap-2">
         <div className="flex items-center gap-2">
           <StealthLogo className="h-7 w-7" />
-          <span className="font-bold tracking-tight text-lg text-gradient hidden xs:block">StealthView</span>
+          <span className="font-bold tracking-tight text-lg text-gradient xs:block">StealthView</span>
         </div>
         
         {/* Mobile Icons */}

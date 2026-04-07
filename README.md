@@ -8,7 +8,8 @@
 [https://stealth-view-dusky.vercel.app/](https://stealth-view-dusky.vercel.app/)
 
 ## 📸 Screenshots
-*Placeholder: [Main Dashboard View]*
+![Screenshort01](/stealthview_full_image_01.jpg)
+![Screenshort02](/stealthview_full_image_02.jpg)
 
 ---
 

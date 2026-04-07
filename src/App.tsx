@@ -143,7 +143,7 @@ export default function App() {
         />
 
         {/* Footer Info */}
-        <footer className="glass-panel flex items-center justify-between px-6 py-2 text-[10px] text-zinc-500">
+        <footer className="glass-panel hidden md:flex items-center justify-between px-6 py-2 text-[10px] text-zinc-500">
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-1.5">
               <div className="h-2 w-2 rounded-full bg-emerald-500"></div>
