@@ -1,0 +1,7 @@
+{
+  "name": "StealthView",
+  "description": "A professional web browsing emulator with device spoofing, location simulation, and private viewing modes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
